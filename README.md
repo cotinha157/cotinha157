@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cotinha157
-- 👀 I’m interested in ...
+- 👀 I’m interested in java script
 - 🌱 I’m currently learning Alura
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @cotinha157
